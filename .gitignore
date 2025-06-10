@@ -1,0 +1,23 @@
+## nodejs
+#node/**/node_modules
+#node/**/package-lock.json
+#node/**/.serverless
+
+## python
+#.idea
+#secret.json
+#**/.venv
+#**/__pycache__/
+#**/secret.json
+
+
+# Node.js
+**/node_modules/
+**/package-lock.json
+**/.serverless/
+
+# Python
+.idea/
+**/.venv/
+**/__pycache__/
+**/secret.json
